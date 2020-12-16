@@ -3,7 +3,7 @@ body{
 }
 section{
   display: grid;
-  border: 1px solid red;
+ 
   width: auto;
   height: 737px;
   margin: 0 auto;
@@ -14,7 +14,7 @@ header{
     width: auto;
     margin: 0 auto;
     display: grid;
-    border:1px solid red;
+
  }
 
 }
